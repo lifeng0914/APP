@@ -1,0 +1,403 @@
+html,body{
+    width: 100%;
+    height: 100%;
+}
+.all{
+    width: 100%;
+    height: 100%;
+}
+.content{
+    width: 7.02rem;
+    height: 100%;
+    margin: 0 auto;
+}
+/*header*/
+#header{
+    width: 100%;
+    height: 3.3rem;
+    margin: 0 auto;
+    background-image: linear-gradient(90deg,
+    #f27171 0%, #e50e0e 100%);
+}
+#header a{
+    display: block;
+    width: 0.6rem;
+    height: 0.6rem;
+    line-height: 0.6rem;
+    float: left;
+}
+.fanhui{
+    font-size: 0.5rem;
+    font-family: iconfont;
+    color: #fff;
+    float: left;
+}
+.shoucang{
+    width: 0.6rem;
+    height: 0.6rem;
+    background: #fff;
+    border-radius: 50%;
+    line-height: 0.6rem;
+    float: left;
+}
+.shouc{
+    font-size: 0.4rem;
+    font-family: iconfont;
+    color: #e50f0f;
+    float: left;
+    margin-top: 0.04rem;
+    margin-left: 0.09rem;
+}
+/*.one{
+    width: 1.93rem;
+    height: 1.93rem;
+    background-color: #f06161;
+    box-shadow: 0 0.01rem 0.16rem 0
+    rgba(235, 60, 61, 0.62);
+    border-radius: 0.17rem;
+}*/
+.dianpuimg{
+    width: 1.66rem;
+    height: 1.66rem;
+    border: 0.03rem solid #fff;
+    border-radius: 0.17rem;
+    float: left;
+    margin: 0.56rem 0.44rem 0rem 0.27rem;
+}
+.dianpuimg img{
+    width: 1.6rem;
+    height: 1.6rem;
+    border-radius: 0.17rem;
+}
+.scanBox{
+    width: 3.47rem;
+    height: 1.67rem;
+    float: left;
+    margin-top: 0.65rem;
+}
+.name{
+    width: 2.7rem;
+    height: 0.25rem;
+    font-size: 0.26rem;
+    color: #fff;
+}
+.scan{
+    width: 0.28rem;
+    height: 0.28rem;
+    background: #fff;
+    border-radius:0.28rem;
+    margin-top: 0.22rem;
+    float: left;
+}
+.dingwei{
+    font-size: 0.22rem;
+    font-family: iconfont;
+    color: #e54d4d;
+    float: left;
+    margin-top: 0.03rem;
+    margin-left: 0.03rem;
+}
+.dizhi{
+    font-size: 0.18rem;
+    color: #fff;
+    float: left;
+    margin-top: 0.26rem;
+    margin-left: 0.08rem;
+}
+.juli{
+    width: 0.94rem;
+    height: 0.34rem;
+    border-radius: 0.17rem;
+    border: solid 0.02rem #fff;
+    font-size: 0.18rem;
+    color: #fff;
+    float: left;
+    text-align: center;
+    margin-top: 0.16rem;
+    margin-bottom: 0.19rem;
+}
+.jl{
+    font-size: 0.18rem;
+    color: #fff;
+    float: left;
+    margin-top: 0.2rem;
+    margin-left: 0.15rem;
+}
+.song{
+    width: 0.8rem;
+    height: 0.3rem;
+    background-color: #ffffff;
+    border-radius: 0.15rem;
+    font-size: 0.20rem;
+    color: #fd6d6d;
+    text-align: center;
+    float: left;
+    margin-top: 0.16rem;
+    margin-left: 0.02rem;
+}
+.wustar{
+    width: 1.45rem;
+    height: 0.22rem;
+    margin-left: 0.07rem;
+}
+.star{
+    font-size: 0.24rem;
+    font-family: iconfont;
+    color: #fff;
+    float: left;
+}
+.dengji{
+    font-size: 0.18rem;
+    color: #fff;
+    float: left;
+    margin-left: 0.25rem;
+}
+/*banner*/
+.banner{
+    width: 100%;
+    height: 1.02rem;
+    background: #000;
+    margin: 0 auto;
+}
+.bannerBox{
+    width: 7.5rem;
+    margin: 0 auto;
+}
+.yuan{
+    width: 0.12rem;
+    height: 0.12rem;
+}
+.yanse1{
+    float: left;
+    background: #fff;
+    border-radius: 50%;
+    border: 0.03rem solid rgba(0,0,0,0.37);
+    margin-left: 0.32rem;
+    margin-top: 0.52rem;
+}
+.wenzi{
+    font-size: 0.24rem;
+    color: #fff;
+    float: left;
+    margin-left: 0.3rem;
+    margin-top: 0.4rem;
+}
+/*title*/
+.title{
+    width: 100%;
+    height: 0.91rem;
+    margin: 0 auto;
+}
+.titleBox{
+    width: 3.3rem;
+    height: 0.69rem;
+    line-height: 0.69rem;
+    background-color: #f4f4f4;
+    border-radius: 0.35rem;
+    border: solid 0.02rem #b7b7b7;
+    margin: 0.26rem auto;
+}
+.titleLeft{
+    width: 1.76rem;
+    height: 0.58rem;
+    line-height: 0.58rem;
+    background-color: #ec302e;
+    border-radius: 0.29rem;
+    border: solid 0.02rem #ffffff;
+    font-size: 0.3rem;
+    float: left;
+    margin-top: 0.03rem;
+    margin-left: 0.03rem;
+}
+.yanse2{
+    border-radius: 50%;
+    background: #000;
+    border: 0.03rem solid rgba(255,255,255,0.47);
+    margin: 0.23rem 0.13rem;
+}
+.titleLeft span{
+    margin: 0 0.18rem;
+}
+.titleRight{
+    font-size: 0.3rem;
+    color: rgba(0,0,0,0.8);
+    margin-left: 2.13rem;
+}
+/*category*/
+.category{
+    width: 7.5rem;
+    height: 8.84rem;
+    margin: 0 auto;
+}
+.categoryLeft{
+    width: 1.91rem;
+    height: 8.84rem;
+    background: #000;
+    padding: 0.54rem 0;
+    float: left;
+}
+.item{
+    width: 1.41rem;
+    height: 0.58rem;
+    border-radius: 0.29rem;
+    border: solid 0.02rem #ec302e;
+    font-size: 0.3rem;
+    color: #ec302e;
+    text-align: center;
+    padding-top: 0.04rem;
+    margin: 0 auto;
+}
+.itemXZ{
+    width: 1.41rem;
+    height: 0.58rem;
+    border-radius: 0.29rem;
+    background: #ec302e;
+    font-size: 0.3rem;
+    color: #fff;
+    text-align: center;
+    padding-top: 0.04rem;
+    margin: 0 auto;
+}
+.categoryRight{
+    width: 5.11rem;
+    height: 8.84rem;
+    float: left;
+    margin-left: 0.24rem;
+}
+.categoryBox{
+    width: 5.11rem;
+    height: 1.62rem;
+    background: #ffffff;
+    box-shadow: 0 0.01rem 0.16rem 0
+    rgba(140, 140, 140, 0.62);
+    border-radius: 0.2rem;
+    margin-top: 0.26rem;
+    margin-bottom: 0.5rem;
+}
+.categoryImg{
+    width: 1.3rem;
+    height: 1.3rem;
+    border-radius: 0.17rem;
+    margin: 0.16rem 0.12rem;
+    float: left;
+}
+.categoryImg img{
+    width: 1.3rem;
+    height: 1.3rem;
+    border-radius: 0.17rem;
+    margin: 0.04rem 0.1rem;
+}
+.categoryXX{
+    width: 2rem;
+    height: 1.3rem;
+    float: left;
+    margin-top: 0.16rem;
+    margin-left: 0.2rem;
+}
+.food{
+    font-size: 0.3rem;
+    color: rgba(0,0,0,0.7);
+}
+.wustarh{
+    width: 1.45rem;
+    height: 0.22rem;
+    margin-left: 0.07rem;
+}
+.starh{
+    font-size: 0.24rem;
+    font-family: iconfont;
+    color: #ec302e;
+    float: left;
+}
+.price{
+    color: #ec302e;
+    font-size: 0.26rem
+}
+.yanse3{
+    border-radius: 50%;
+    background: #ec302e;
+    border: 0.03rem solid #fac9ca;
+    float: left;
+    margin-top: 0.08rem;
+}
+.pinlun{
+    font-size: 0.18rem;
+    color: rgba(0,0,0,0.5);
+    float: left;
+}
+.jia{
+    width: 0.41rem;
+    height: 0.41rem;
+    float: right;
+    padding-left:0.04rem;
+    margin-top: 0.67rem;
+    margin-right: 0.3rem;
+}
+.jia1{
+    font-size: 0.38rem;
+    font-family: iconfont;
+    color: #ec302e;
+    float: left;
+}
+/*tab*/
+.tab{
+    width: 100%;
+    height: 0.98rem;
+    background: #fff;
+    box-shadow: 0 -0.01rem 0.08rem 0
+    rgba(0, 0, 0, 0.69);
+    margin: 0 auto;
+    margin-top: 0.1rem;
+    position: fixed;
+    bottom: 0;
+}
+.tabLeft{
+    width: 0.72rem;
+    height: 0.72rem;
+    border-radius: 50%;
+    background: #f88687;
+    float: left;
+    margin-left: 0.44rem;
+    margin-top: 0.13rem;
+}
+.gouwuchek{
+    font-size: 0.44rem;
+    font-family: iconfont;
+    color: #d81e06;
+    float: left;
+    margin-left: 0.12rem;
+    margin-top: 0.14rem;
+}
+.tabMiddle{
+    width: 1.6rem;
+    height: 0.72rem;
+    float: left;
+    color: rgba(0,0,0,0.8);
+    margin-left: 0.15rem;
+    margin-top: 0.13rem;
+}
+.jinge{
+    font-size: 0.24rem;
+    color: rgba(0,0,0,0.8);
+}
+.jinge1{
+    font-size: 0.2rem;
+    color: rgba(0,0,0,0.6);
+    margin-top: 0.06rem;
+}
+.tabRight{
+    width: 1.54rem;
+    height: 0.56rem;
+    background-image: linear-gradient(90deg,
+    #e51010 0%, #f27171 100%);
+    border-radius: 0.28rem;
+    float: right;
+    margin-right: 0.25rem;
+    margin-top: 0.21rem;
+}
+.diancan{
+    font-size: 0.26rem;
+    color: #fff;
+    margin-left: 0.38rem;
+    margin-top: 0.1rem;
+}
