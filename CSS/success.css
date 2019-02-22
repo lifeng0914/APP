@@ -1,0 +1,111 @@
+.content{
+    width: 7.02rem;
+    height: 100%;
+    margin: 0 auto;
+}
+/*header*/
+#header{
+    width: 7.5rem;
+    height: 1.2rem;
+    margin: 0 auto;
+}
+#header a{
+    display: block;
+    width: 0.6rem;
+    height: 0.6rem;
+    line-height: 0.6rem;
+}
+.fanhui{
+    font-size: 0.4rem;
+    font-family: iconfont;
+    color: #999999;
+    float: left;
+}
+/*支付成功*/
+.success{
+    width: 7.5rem;
+    height: 6.33rem;
+    margin: 0 auto;
+    text-align: center;
+}
+.successImg{
+    width: 7.5rem;
+    height: 5rem;
+    margin: 0 auto;
+}
+.successImg img{
+    width: 7.5rem;
+    height: 5rem;
+    margin: 0 auto;
+}
+.gx{
+    font-size: 0.46rem;
+    color: #000;
+    margin-bottom: 0.2rem;
+}
+.successBox{
+    width: 3.5rem;
+    height: 1.33rem;
+    margin: 0 auto;
+    margin-bottom: 1.36rem;
+}
+.yuan{
+    width: 0.06rem;
+    height: 0.06rem;
+    border-radius: 0.12rem;
+    float: left;
+    margin-left: 0.04rem;
+    margin-top: 0.13rem;
+}
+.wenzi{
+    font-size: 0.3rem;
+    color: #000;
+    float: left;
+    margin: 0 0.18rem;
+}
+/*Tab*/
+.Tab{
+    width: 7.5rem;
+    margin: 0 auto;
+}
+.TabBox{
+    width: 7.02rem;
+    margin: 0 auto;
+    border-top: 0.02rem solid rgba(0,0,0,0.05);
+}
+.shouye{
+    width: 3.14rem;
+    height: 1.02rem;
+    line-height: 1.02rem;
+    background-image: linear-gradient(90deg,
+    #e50f0f 0%,
+    #eb8384 100%);
+    box-shadow: 0 0.01rem 0.2rem 0
+    rgba(232, 76, 76, 0.38);
+    border-radius: 0.51rem;
+    font-size: 0.36rem;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0.89rem;
+}
+.shouye a{
+    display: block;
+    font-style: normal;
+    color: #ffffff;
+}
+.guang{
+    width: 3.14rem;
+    height: 1.02rem;
+    line-height: 1.02rem;
+    background-image: linear-gradient(90deg,
+    #e61c7b 0%,
+    #e698c1 100%);
+    box-shadow: 0 0.01rem 0.2rem 0
+    rgba(229, 91, 159, 0.38);
+    border-radius: 0.51rem;
+    font-size: 0.36rem;
+    color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 0.6rem;
+}
